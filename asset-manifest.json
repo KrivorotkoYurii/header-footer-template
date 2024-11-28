@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/header-footer-template/static/css/main.bb66f867.css",
+    "main.js": "/header-footer-template/static/js/main.11ece5b6.js",
+    "static/media/tomato.png": "/header-footer-template/static/media/tomato.4405c07db784c272a39d.png",
+    "static/media/page-not-found.png": "/header-footer-template/static/media/page-not-found.6f5b123471bc09721371.png",
+    "index.html": "/header-footer-template/index.html",
+    "static/media/stroke.svg": "/header-footer-template/static/media/stroke.29a5ca1428575a66dbe7c51a8bece725.svg",
+    "main.bb66f867.css.map": "/header-footer-template/static/css/main.bb66f867.css.map",
+    "main.11ece5b6.js.map": "/header-footer-template/static/js/main.11ece5b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb66f867.css",
+    "static/js/main.11ece5b6.js"
+  ]
+}
